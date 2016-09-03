@@ -1,0 +1,5 @@
+1) Please understand the problem statement at 
+https://www.kaggle.com/c/criteo-display-ad-challenge
+
+2) Please download data from it from
+https://www.kaggle.com/c/criteo-display-ad-challenge/data
