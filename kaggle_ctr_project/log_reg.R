@@ -71,8 +71,8 @@ library(car)
 #??vif
 
 
-
-CTR_SD_Data <- read.csv("/home/raghunandangupta/Downloads/splits/sub-splitaa")
+DOWNLOAD_FILE_PATH= #Enter the download file path e.g. "/home/bhavesh.thakkar/Downloads/splits/sub-splitaa"
+CTR_SD_Data <- read.csv(DOWNLOAD_FILE_PATH)
 
 View(CTR_SD_Data)
 
